@@ -22,10 +22,11 @@ This Java program reads integers from a file into a 2D matrix and sorts them usi
 ### Using Command Line:
     - Open your terminal or command prompt.
     - Navigate to the folder containing Prog3.java.
-    - Compile the program:
+    
+#### Compile the program:
         javac Prog3.java
 
-    - Run the program:
+#### Run the program:
         java Prog3
 
     - When prompted, type the full path or filename of the input file containing integers (one per line).
