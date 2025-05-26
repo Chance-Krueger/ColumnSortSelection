@@ -14,20 +14,20 @@ This Java program reads integers from a file into a 2D matrix and sorts them usi
 ## How To run it:
 ### Using Eclipse:
     - Create a new Java Project.
-    - Add Prog3.java to the src folder.
+    - Add ColumnSortSelection.java to the src folder.
     - Save the file.
-    - Right-click Prog3.java → Select Run As → Java Application.
+    - Right-click ColumnSortSelection.java → Select Run As → Java Application.
     - When prompted, enter the path to your input text file containing integers.
 
 ### Using Command Line:
     - Open your terminal or command prompt.
-    - Navigate to the folder containing Prog3.java.
+    - Navigate to the folder containing ColumnSortSelection.java.
     
 #### Compile the program:
-        javac Prog3.java
+        javac ColumnSortSelection.java
 
 #### Run the program:
-        java Prog3
+        java ColumnSortSelection
 
     - When prompted, type the full path or filename of the input file containing integers (one per line).
 
